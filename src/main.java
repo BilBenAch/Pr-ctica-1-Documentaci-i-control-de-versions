@@ -6,6 +6,8 @@ public class main {
         System.out.println("hoasdasasasd");
         System.out.println("segundo proyecto");
         System.out.println("hola");
+        System.out.println("asdasas");
+        System.out.println("asaasasd");
 
     }
 }
